@@ -1,6 +1,6 @@
-Anvik.ai - Multi-Agent Deep Research Assistant
+NeRO 2.0 - Multi-Agent Deep Research Assistant
 Overview
-Anvik.ai is a production-ready, multi-agent research assistant with a Gradio frontend and FastAPI backend. It conducts in-depth research using Wikipedia and Google Scholar (via SerpAPI), powered by Google Gemini 2.5 Flash. Users can input topics via a web interface, view results (Wikipedia summary, paper details with links, citations, progress, proposal) in a conversational ChatGPT-like format.
+NeRO 2.0 (formerly Anvik.ai) is a production-ready, multi-agent research assistant with a Gradio frontend and FastAPI backend. It conducts in-depth research using Wikipedia and Google Scholar (via SerpAPI), powered by Google Gemini 2.5 Flash. Users can input topics via a web interface, view results (Wikipedia summary, paper details with links, citations, progress, proposal) in a conversational ChatGPT-like format.
 Features
 
 Frontend: Gradio interface for topic input and result display (Wikipedia summary, paper details with clickable URLs, APA/MLA citations, progress, proposal) in a chat-based format.
